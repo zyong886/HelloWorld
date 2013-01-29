@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FloatableWindow">
+</Property><Property Name="解决方案文件" Value="C:\Users\zyong\Desktop\1-091222101K5\FloatableWindowSource\FloatableWindow.sln">
+</Property><Property Name="Date" Value="2013年1月24日">
+</Property><Property Name="Time" Value="17:14:33">
+</Property></Properties><Event ErrorLevel="0" Project="FloatableWindow" Source="FloatableWindow.csproj" Description="项目文件已成功备份为 C:\Users\zyong\Desktop\1-091222101K5\FloatableWindowSource\Backup\FloatableWindow.csproj">
+</Event><Event ErrorLevel="0" Project="FloatableWindow" Source="FloatableWindow.csproj.user" Description="项目用户文件成功备份为 C:\Users\zyong\Desktop\1-091222101K5\FloatableWindowSource\Backup\FloatableWindow.csproj.user">
+</Event><Event ErrorLevel="0" Project="FloatableWindow" Source="FloatableWindow.cs" Description="文件已成功备份为 C:\Users\zyong\Desktop\1-091222101K5\FloatableWindowSource\Backup\FloatableWindow.cs">
+</Event><Event ErrorLevel="0" Project="FloatableWindow" Source="GlobalSuppressions.cs" Description="文件已成功备份为 C:\Users\zyong\Desktop\1-091222101K5\FloatableWindowSource\Backup\GlobalSuppressions.cs">
+</Event><Event ErrorLevel="0" Project="FloatableWindow" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\zyong\Desktop\1-091222101K5\FloatableWindowSource\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FloatableWindow" Source="ResizeMode.cs" Description="文件已成功备份为 C:\Users\zyong\Desktop\1-091222101K5\FloatableWindowSource\Backup\ResizeMode.cs">
+</Event><Event ErrorLevel="0" Project="FloatableWindow" Source="FloatableWindowStrongNameKey.snk" Description="文件已成功备份为 C:\Users\zyong\Desktop\1-091222101K5\FloatableWindowSource\Backup\FloatableWindowStrongNameKey.snk">
+</Event><Event ErrorLevel="0" Project="FloatableWindow" Source="README.txt" Description="文件已成功备份为 C:\Users\zyong\Desktop\1-091222101K5\FloatableWindowSource\Backup\README.txt">
+</Event><Event ErrorLevel="0" Project="FloatableWindow" Source="themes\generic.xaml" Description="文件已成功备份为 C:\Users\zyong\Desktop\1-091222101K5\FloatableWindowSource\Backup\themes\generic.xaml">
+</Event><Event ErrorLevel="0" Project="FloatableWindow" Source="FloatableWindow.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="FloatableWindow" Source="FloatableWindow.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FloatableWindow" Source="FloatableWindow.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
